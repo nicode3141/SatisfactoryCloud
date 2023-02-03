@@ -2,5 +2,5 @@
 Cloud for Satisfactory Saves
 
 
-## IMPORTANT: please rename File before uploading.
+## IMPORTANT: Rename Files before uploading.
 ### Only Files starting with SatisLD will be uploaded.
